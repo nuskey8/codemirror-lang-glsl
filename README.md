@@ -1,7 +1,7 @@
 # @nuskey8/codemirror-lang-glsl
 
 [![npm version](https://badge.fury.io/js/@nuskey8%2Fcodemirror-lang-glsl.svg)](https://badge.fury.io/js/@nuskey8%2Fcodemirror-lang-glsl)
-[![releases](https://img.shields.io/github/release/AnnulusGames/Lua-CSharp.svg)](https://github.com/AnnulusGames/Lua-CSharp/releases)
+[![releases](https://img.shields.io/github/release/nuskey8/codemirror-lang-glsl.svg)](https://github.com/nuskey8/codemirror-lang-glsl/releases)
 [![license](https://img.shields.io/badge/LICENSE-MIT-green.svg)](LICENSE)
 
 This library provides the GLSL language support implementation for CodeMirror.
