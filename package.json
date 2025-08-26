@@ -1,7 +1,7 @@
 {
   "name": "@nuskey8/codemirror-lang-glsl",
   "version": "1.0.0",
-  "description": "CodeMirror GLSL support",
+  "description": "GLSL language support for the CodeMirror code editor",
   "main": "build/index.js",
   "module": "build/index.js",
   "types": "build/index.d.ts",
@@ -14,7 +14,6 @@
   "files": [
     "build",
     "src",
-    "examples",
     "README.md",
     "LICENSE"
   ],
@@ -29,6 +28,10 @@
   ],
   "author": "nuskey8",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuskey8/codemirror-lang-glsl.git"
+  },
   "peerDependencies": {
     "@codemirror/language": "^6.0.0",
     "@codemirror/state": "^6.0.0",
