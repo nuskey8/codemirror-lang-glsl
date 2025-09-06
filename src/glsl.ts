@@ -6,6 +6,9 @@ import glslCompletionSource from "./completion";
 
 const language = LRLanguage.define({
     parser: glslParser as any,
+    languageData: {
+        commentTokens: { line: "//", block: { open: "/*", close: "*/" } },
+    }
 });
 
 const glslHighlight = language.configure({
