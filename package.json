@@ -1,6 +1,6 @@
 {
   "name": "@nuskey8/codemirror-lang-glsl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "GLSL language support for the CodeMirror code editor",
   "main": "build/index.js",
   "module": "build/index.js",
